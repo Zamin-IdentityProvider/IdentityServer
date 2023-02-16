@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.Endpoints.Ui", "IdentityServer.Endpoints.Ui\IdentityServer.Endpoints.Ui.csproj", "{ECA5858C-CE51-4D05-8737-52528EA43FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA5858C-CE51-4D05-8737-52528EA43FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA5858C-CE51-4D05-8737-52528EA43FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA5858C-CE51-4D05-8737-52528EA43FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA5858C-CE51-4D05-8737-52528EA43FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6159C72C-DAF4-4DEC-8517-B63ABA7CC657}
+	EndGlobalSection
+EndGlobal
